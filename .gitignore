@@ -1,0 +1,6 @@
+# Virtual Environment
+ven/
+
+# IntelliJ IDEA
+.idea/
+*.iml
