@@ -24,7 +24,7 @@ pip install -r requirements.txt
 ```bash
 export OTEL_EXPORTER_OTLP_HEADERS=Authorization="Bearer ..."
 export OTEL_EXPORTER_OTLP_ENDPOINT=ingress.eu-west-1.aws.dash0.com:4317
-export OTEL_SERVICE_NAME=genai-trace-generator
+export OTEL_SERVICE_NAME=opentelemetry-genai-trace-simulator
 ```
 
 3. Run evaluation
